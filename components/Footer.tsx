@@ -2,7 +2,7 @@ import { Github, Twitter, Instagram, Linkedin } from "lucide-react";
 
 export default function Footer() {
   return (
-    <footer className="bg-[#022B3A] border-t border-[#E9967A]/20 py-12 px-4 relative z-10">
+    <footer className="border-t border-[#E9967A]/20 py-12 px-4 relative z-10">
       <div className="max-w-6xl mx-auto">
         <div className="flex flex-col md:flex-row justify-between items-center">
           {/* Logo and tagline */}

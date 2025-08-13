@@ -4,7 +4,7 @@ import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
   title: 'Sous - Your AI Sous Chef',
-  description: 'Stop thinking, start cooking. Sous is your personal AI sous-chef, turning the ingredients you have into meals you\'ll love.',
+  description: 'Turn your pantry into possibilities. Sous is your personal AI sous-chef, turning the ingredients you have into meals you\'ll love.',
 };
 
 export default function RootLayout({
